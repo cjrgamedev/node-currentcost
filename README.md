@@ -5,7 +5,7 @@ Node.js app for accessing and outputting data from a Current Cost electricity me
 
 ### Hardware
 
-* Current Cost Electricity Meter (tested with one supplie
+* Current Cost Electricity Meter (tested with one supplied by E.ON)
 
 ### Software
 
